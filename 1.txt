@@ -3,3 +3,5 @@
 # Primer prueba para sincronizacion del github
 #
 ################################################################################
+
+Recordar que cuando pide username hay que meterle el string "tokengithubgpbarsky".
